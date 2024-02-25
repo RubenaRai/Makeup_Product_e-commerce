@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin:0px;
+    text-decoration: none;
+}
+.footer-logo{
+    border:1px solid #9EC4C5;
+    background-color: #9EC4C5;
+    padding: 20px;
+    text-align: center;
+    margin-top:3em;
+}
+.footer-img{
+    width: 12em;
+    padding: 3em;
+}
+.footer-img2{
+    width:9em ;
+    padding: 3em;
+
+}
+.footer-img1{
+    width: 15em;
+    padding: 3em;
+
+}
+.footer-text{
+    border: 1px solid #F5E4DC;
+    background-color: #F5E4DC;
+    padding: 2em;
+    font-size: 27px;
+    vertical-align: 3em;
+}
+.footer-text-container{
+    padding-top: 15px;
+}
